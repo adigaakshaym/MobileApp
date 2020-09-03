@@ -1,0 +1,20 @@
+{
+  "name": "mobileapp",
+  "displayName": "MovieReviews",
+  "expo": {
+    "name": "Movie Reviews",
+    "slug": "movie-reviews",
+    "version": "1.0.0",
+    "splash": {
+      "image": ".\\assets\\splash.png",
+      "backgroundColor": "#ead57a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "io.apk"
+    }
+  }
+}
